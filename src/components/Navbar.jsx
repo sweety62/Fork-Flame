@@ -1,10 +1,8 @@
-import  { useState } from 'react'
-//import { FaXmark } from 'react-icons/fa6';
-import { FaBars } from 'react-icons/fa6';
+import { useState } from 'react'
+import { FaBars } from 'react-icons/fa6'
 
 const Navbar = () => {
-  const [showMenu, setShowMenu] = useState(false);
-  console.log(showMenu);
+  const [showMenu, setShowMenu] = useState(false)
   return (
     <div className="shadow-md sticky top-0 z-50 backdrop-blur-3xl">
 
