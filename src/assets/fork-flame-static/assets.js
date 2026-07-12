@@ -1,25 +1,29 @@
-import heroImg from '../assets/hero.avif';
-import aboutImg from '../assets/about.avif';
-import item1Img from '../assets/item1.avif';
-import item2Img from '../assets/item2.avif';
-import item3Img from '../assets/item3.avif';
-import item4Img from '../assets/item4.avif';
-import item5Img from '../assets/item5.avif';
-import item6Img from '../assets/item6.avif';
-import item7Img from '../assets/item7.avif';
-import item8Img from '../assets/item8.avif';
-import item9Img from '../assets/item9.avif';
-import item10Img from '../assets/item10.avif';
-import item11Img from '../assets/item11.avif';
-import item12Img from '../assets/item12.avif';
-import item13Img from '../assets/item13.avif';
-import item14Img from '../assets/item14.avif';
-import item15Img from '../assets/item15.avif';
-import user1Img from '../assets/user1.jpg';
-import user2Img from '../assets/user2.jpg';
-import user3Img from '../assets/user3.jpg';
+import heroImg from './hero.avif';
+import aboutImg from './about.avif';
+import item1Img from './item1.avif';
+import item2Img from './item2.avif';
+import item3Img from './item3.avif';
+import item4Img from './item4.avif';
+import item5Img from './item5.avif';
+import item6Img from './item6.avif';
+import item7Img from './item7.avif';
+import item8Img from './item8.avif';
+import item9Img from './item9.avif';
+import item10Img from './item10.avif';
+import item11Img from './item11.avif';
+import item12Img from './item12.avif';
+import item13Img from './item13.avif';
+import item14Img from './item14.avif';
+import item15Img from './item15.avif';
+import user1Img from './user1.jpg';
+import user2Img from './user2.jpg';
+import user3Img from './user3.jpg';
 
+export const assets = {
+  heroImg,
+  aboutImg
 
+}
 
 export const foodMenu = [
   {
